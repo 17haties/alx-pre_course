@@ -1,0 +1,10 @@
+
+cd bash
+cd..
+clear
+
+
+
+
+
+
